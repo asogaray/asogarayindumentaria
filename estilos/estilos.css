@@ -1,0 +1,53 @@
+.contenido-card{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 1rem;
+    padding: 1rem;
+}
+
+.card{
+    width: 30%;
+    padding: 0.5rem;
+    color: #000000;
+}
+
+.card > img{
+    width: 70%;
+    height: 70%;
+}
+
+.titulo{
+    font-family: 'Playfair Display', serif;
+    color: #3b3b3b;
+}
+
+.texto{
+    display: flex;
+    justify-content: center;
+}
+
+.texto > p{
+    font-family: 'Vazirmatn', sans-serif;
+    color: #3b3b3b;
+    width: 60%;
+}
+
+.whatsapp{
+    display: flex;
+    justify-content: end;
+}
+
+.pie-de-pagina{
+    background-color: rgba(241, 241, 241, 0.608);
+}
+
+.pie-de-pagina > li > a{
+   text-decoration: none;
+   color: #3b3b3b;
+}
+
+.pie-de-pagina > a{
+    text-decoration: none;
+    color: #3b3b3b;
+ }
