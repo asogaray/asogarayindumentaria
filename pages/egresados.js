@@ -90,6 +90,20 @@ const egresados = [
     img: "../multimedias/img/camperaegresados16.png"
     },
 
+    {
+    nombre: "Buzo",
+    descripcion: "Buzo oversize de frisa de algodón ",
+    categoria: "Buzos",
+    img: "../multimedias/img/buzo negro.jpeg"
+    },
+    {
+    nombre: "Buzo",
+    descripcion: "Buzo oversize de frisa de algodón ",
+    categoria: "Buzos",
+    img: "../multimedias/img/buzonegrodelantera.jpg"
+    },
+    
+
 
     {
     nombre: "Remera",
