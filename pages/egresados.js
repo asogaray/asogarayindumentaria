@@ -92,13 +92,13 @@ const egresados = [
 
     {
     nombre: "Buzo",
-    descripcion: "Buzo oversize de frisa de algodón ",
+    descripcion: "Buzo oversize de frisa de algodón, estampada y bordada",
     categoria: "Buzos",
     img: "../multimedias/img/buzo negro.jpeg"
     },
     {
     nombre: "Buzo",
-    descripcion: "Buzo oversize de frisa de algodón ",
+    descripcion: "Buzo oversize de frisa de algodón, estampada y bordada ",
     categoria: "Buzos",
     img: "../multimedias/img/buzonegrodelantera.jpg"
     },
